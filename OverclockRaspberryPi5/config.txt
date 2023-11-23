@@ -1,0 +1,9 @@
+[all]
+# Increase the voltage
+over_voltage_delta=50000
+
+# Set Arm core frequency in MHz (default 2400)
+arm_freq=3000
+
+# Set GPI frequency in MHz (default 800)
+gpu_freq=900
